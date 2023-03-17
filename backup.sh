@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -eu
 
 ##設定##
 STARTER="/home/NX-EN/minecraft-server/start.sh" #サーバの起動スクリプトのパス
